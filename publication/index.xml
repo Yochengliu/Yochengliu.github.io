@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Yongcheng Liu&#39;s Homepage</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Yongcheng Liu&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
+      <link>/publication/4-conference_cvpr2019/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/4-conference_cvpr2019/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;CVPR 2019&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&lt;font size=4 color=#FF4500&gt;Oral&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt; &lt;br&gt; &lt;strong&gt;&lt;em&gt;&lt;font size=3&gt;Acceptance rate: 5.6%&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>/publication/3-conference_mm2018/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/3-conference_mm2018/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ACM Multimedia 2018&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
+      <title>Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network</title>
+      <link>/publication/2-journal_jprs2018/</link>
+      <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/2-journal_jprs2018/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ISPRS JPRS 2017&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;SCI Top, IF=6.387&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
+      <title>Context-Aware Cascade Network for Semantic Labeling in VHR Image</title>
+      <link>/publication/1-conference_icip2017/</link>
+      <pubDate>Sun, 17 Sep 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/1-conference_icip2017/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ICIP 2017&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&lt;font size=4 color=#FF4500&gt;Oral&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF C&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
