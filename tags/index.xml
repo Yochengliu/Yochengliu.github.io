@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Yongcheng Liu&#39;s Homepage</title>
-    <link>/tags/</link>
+    <link>https://yochengliu.github.io/tags/</link>
     <description>Recent content in Tags on Yongcheng Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0800</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yochengliu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3D Point Cloud Processing</title>
-      <link>/tags/3d-point-cloud-processing/</link>
+      <link>https://yochengliu.github.io/tags/3d-point-cloud-processing/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>/tags/3d-point-cloud-processing/</guid>
+      <guid>https://yochengliu.github.io/tags/3d-point-cloud-processing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutional Neural Networks</title>
-      <link>/tags/convolutional-neural-networks/</link>
+      <link>https://yochengliu.github.io/tags/convolutional-neural-networks/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>/tags/convolutional-neural-networks/</guid>
+      <guid>https://yochengliu.github.io/tags/convolutional-neural-networks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/tags/deep-learning/</link>
+      <link>https://yochengliu.github.io/tags/deep-learning/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>https://yochengliu.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Geometric Relation Learning</title>
-      <link>/tags/geometric-relation-learning/</link>
+      <link>https://yochengliu.github.io/tags/geometric-relation-learning/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
       
-      <guid>/tags/geometric-relation-learning/</guid>
+      <guid>https://yochengliu.github.io/tags/geometric-relation-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Knowledge Distillation</title>
-      <link>/tags/knowledge-distillation/</link>
+      <link>https://yochengliu.github.io/tags/knowledge-distillation/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/knowledge-distillation/</guid>
+      <guid>https://yochengliu.github.io/tags/knowledge-distillation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-Label Image Classification</title>
-      <link>/tags/multi-label-image-classification/</link>
+      <link>https://yochengliu.github.io/tags/multi-label-image-classification/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/multi-label-image-classification/</guid>
+      <guid>https://yochengliu.github.io/tags/multi-label-image-classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weakly-Supervised Detection</title>
-      <link>/tags/weakly-supervised-detection/</link>
+      <link>https://yochengliu.github.io/tags/weakly-supervised-detection/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
       
-      <guid>/tags/weakly-supervised-detection/</guid>
+      <guid>https://yochengliu.github.io/tags/weakly-supervised-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2D Semantic Labeling</title>
-      <link>/tags/2d-semantic-labeling/</link>
+      <link>https://yochengliu.github.io/tags/2d-semantic-labeling/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
       
-      <guid>/tags/2d-semantic-labeling/</guid>
+      <guid>https://yochengliu.github.io/tags/2d-semantic-labeling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VHR images</title>
-      <link>/tags/vhr-images/</link>
+      <link>https://yochengliu.github.io/tags/vhr-images/</link>
       <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
       
-      <guid>/tags/vhr-images/</guid>
+      <guid>https://yochengliu.github.io/tags/vhr-images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>/tags/demo/</link>
+      <link>https://yochengliu.github.io/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>https://yochengliu.github.io/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>https://yochengliu.github.io/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://yochengliu.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
