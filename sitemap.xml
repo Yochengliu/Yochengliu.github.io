@@ -1,347 +1,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
+
     <url>
     
-      <loc>https://yochengliu.github.io/friends/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/</loc>
+      <loc>https://yochengliu.github.io/</loc>
       <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
+      <priority>1.0</priority>
     </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/font-size2/font-corresponding-author/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/font-size4yongcheng-liu/font/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/3d-point-cloud-processing/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/convolutional-neural-networks/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/deep-learning/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
+
     <url>
 		<loc>https://yochengliu.github.io/Relation-Shape-CNN/</loc>
 		<lastmod>2019-04-18T17:57:32+00:00</lastmod>
 		<changefreq>daily</changefreq>
-		<priority>0.9</priority>
+		<priority>0.8</priority>
 	</url>
   
     <url>
 		<loc>https://yochengliu.github.io/MLIC-KD-WSD/</loc>
 		<changefreq>daily</changefreq>
-		<priority>0.99</priority>
+		<priority>0.8</priority>
 	</url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/geometric-relation-learning/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
+
     <url>
     
       <loc>https://yochengliu.github.io/publication/</loc>
       <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/publication/4-conference_cvpr2019/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/sup/sup/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/chunhong-panhttps/www.researchgate.net/lab/chunhong-pan-lab/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/shiming-xianghttps/scholar.google.com/citationsuser0ggsaceaaaajhlzh-cn/</loc>
-      <lastmod>2019-04-12T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/talk/3-ai-forum/</loc>
-      <lastmod>2019-03-30T13:00:00+08:00</lastmod>
+      <priority>0.8</priority>
     </url>
   
     <url>
     
       <loc>https://yochengliu.github.io/talk/</loc>
       <lastmod>2019-03-30T13:00:00+08:00</lastmod>
+      <priority>0.7</priority>
     </url>
   
     <url>
-    
-      <loc>https://yochengliu.github.io/post/jupyter/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/post/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/admin/</loc>
-      <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/talk/2-mm2018/</loc>
-      <lastmod>2018-10-24T13:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/knowledge-distillation/</loc>
-      <lastmod>2018-10-22T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/multi-label-image-classification/</loc>
-      <lastmod>2018-10-22T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/publication/3-conference_mm2018/</loc>
-      <lastmod>2018-10-22T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/weakly-supervised-detection/</loc>
-      <lastmod>2018-10-22T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/jing-shaohttps/amandajshao.github.io/sup/sup/</loc>
-      <lastmod>2018-10-22T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/junjie-yanhttp/www.cbsr.ia.ac.cn/users/jjyan/main.htm/</loc>
-      <lastmod>2018-10-22T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/lu-shenghttps/lucassheng.github.io/</loc>
-      <lastmod>2018-10-22T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tutorial/example/</loc>
-      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tutorial/</loc>
-      <lastmod>2018-09-09T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/2d-semantic-labeling/</loc>
-      <lastmod>2017-12-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/publication/2-journal_jprs2018/</loc>
-      <lastmod>2017-12-15T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/vhr-images/</loc>
-      <lastmod>2017-12-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/jun-baihttps/www.researchgate.net/profile/jun_bai/</loc>
-      <lastmod>2017-12-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/lingfeng-wanghttps/scholar.google.com/citationsuserparak2aaaaajhlen/</loc>
-      <lastmod>2017-12-15T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/talk/1-icip2017/</loc>
-      <lastmod>2017-09-18T13:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/publication/1-conference_icip2017/</loc>
-      <lastmod>2017-09-17T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/</loc>
-      <lastmod>2017-09-17T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/project/external-project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/project/internal-project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/tags/academic/</loc>
-      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/post/getting-started/</loc>
-      <lastmod>2018-01-13T00:00:00+08:00</lastmod>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/author/admin/</loc>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/author/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/publication_types/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/slides/</loc>
-      <priority>0</priority>
-    </url>
-  
-    <url>
-    
-      <loc>https://yochengliu.github.io/slides/example/</loc>
-    </url>
-  
+		<loc>https://github.com/Yochengliu/ScasNet</loc>
+		<changefreq>daily</changefreq>
+		<priority>0.7</priority>
+	</url>
+
 </urlset>
