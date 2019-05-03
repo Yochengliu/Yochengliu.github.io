@@ -6,10 +6,28 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Yongcheng Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2019 13:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 13:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://yochengliu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deep Learning (CNN) in 3D Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/talk/5-msra/</link>
+      <pubDate>Tue, 30 Apr 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/5-msra/</guid>
+      <description>Academic seminar with top-talent researchers led by Jifeng Dai.</description>
+    </item>
+    
+    <item>
+      <title>Geometric Relation Learning in 3D Point Cloud Analysis</title>
+      <link>https://yochengliu.github.io/talk/4-sffai25/</link>
+      <pubDate>Sun, 21 Apr 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/4-sffai25/</guid>
+      <description>Academic report on Student Forums on Frontiers of Artificial Intelligence.</description>
+    </item>
     
     <item>
       <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>

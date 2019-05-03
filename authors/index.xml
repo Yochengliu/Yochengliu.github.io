@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Yongcheng Liu&#39;s Homepage</title>
+    <title>Yongcheng Liu&#39;s Homepage</title>
     <link>https://yochengliu.github.io/authors/</link>
-    <description>Recent content in Authors on Yongcheng Liu&#39;s Homepage</description>
+    <description>Recent content on Yongcheng Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Apr 2019 00:00:00 +0800</lastBuildDate>
@@ -12,120 +12,12 @@
     
     
     <item>
-      <title></title>
-      <link>https://yochengliu.github.io/authors/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**&lt;font size=2&gt;*&lt;/font&gt;**: Corresponding author</title>
-      <link>https://yochengliu.github.io/authors/font-size2/font-corresponding-author/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/font-size2/font-corresponding-author/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>**&lt;font size=4&gt;Yongcheng Liu&lt;/font&gt;**</title>
-      <link>https://yochengliu.github.io/authors/font-size4yongcheng-liu/font/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/font-size4yongcheng-liu/font/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Bin Fan](http://www.nlpr.ia.ac.cn/fanbin/)&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/sup/sup/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/sup/sup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Chunhong Pan](https://www.researchgate.net/lab/Chunhong-Pan-Lab)</title>
-      <link>https://yochengliu.github.io/authors/chunhong-panhttps/www.researchgate.net/lab/chunhong-pan-lab/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/chunhong-panhttps/www.researchgate.net/lab/chunhong-pan-lab/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Shiming Xiang](https://scholar.google.com/citations?user=0ggsACEAAAAJ&amp;hl=zh-CN)</title>
-      <link>https://yochengliu.github.io/authors/shiming-xianghttps/scholar.google.com/citationsuser0ggsaceaaaajhlzh-cn/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/shiming-xianghttps/scholar.google.com/citationsuser0ggsaceaaaajhlzh-cn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>admin</title>
-      <link>https://yochengliu.github.io/authors/admin/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/admin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Jing Shao](https://amandajshao.github.io/)&lt;sup&gt;*&lt;/sup&gt;</title>
-      <link>https://yochengliu.github.io/authors/jing-shaohttps/amandajshao.github.io/sup/sup/</link>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>https://yochengliu.github.io/publication/3-conference_mm2018/</link>
       <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
       
-      <guid>https://yochengliu.github.io/authors/jing-shaohttps/amandajshao.github.io/sup/sup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Junjie Yan](http://www.cbsr.ia.ac.cn/users/jjyan/main.htm)</title>
-      <link>https://yochengliu.github.io/authors/junjie-yanhttp/www.cbsr.ia.ac.cn/users/jjyan/main.htm/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/junjie-yanhttp/www.cbsr.ia.ac.cn/users/jjyan/main.htm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Lu Sheng](https://lucassheng.github.io/)</title>
-      <link>https://yochengliu.github.io/authors/lu-shenghttps/lucassheng.github.io/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/lu-shenghttps/lucassheng.github.io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Jun Bai](https://www.researchgate.net/profile/Jun_Bai)</title>
-      <link>https://yochengliu.github.io/authors/jun-baihttps/www.researchgate.net/profile/jun_bai/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/jun-baihttps/www.researchgate.net/profile/jun_bai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Lingfeng Wang](https://scholar.google.com/citations?user=PaRak2AAAAAJ&amp;hl=en)</title>
-      <link>https://yochengliu.github.io/authors/lingfeng-wanghttps/scholar.google.com/citationsuserparak2aaaaajhlen/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/lingfeng-wanghttps/scholar.google.com/citationsuserparak2aaaaajhlen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>[Bin Fan](http://www.nlpr.ia.ac.cn/fanbin/)</title>
-      <link>https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/</link>
-      <pubDate>Sun, 17 Sep 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/authors/bin-fanhttp/www.nlpr.ia.ac.cn/fanbin/</guid>
-      <description></description>
+      <guid>https://yochengliu.github.io/publication/3-conference_mm2018/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ACM Multimedia 2018&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
     </item>
     
   </channel>
