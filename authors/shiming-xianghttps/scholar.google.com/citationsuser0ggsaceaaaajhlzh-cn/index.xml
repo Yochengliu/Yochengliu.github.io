@@ -12,12 +12,21 @@
     
     
     <item>
+      <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/publication/5-conference_iccv2019/</link>
+      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/5-conference_iccv2019/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ICCV 2019&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
+    
+    <item>
       <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
       <link>https://yochengliu.github.io/publication/4-conference_cvpr2019/</link>
       <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
       
       <guid>https://yochengliu.github.io/publication/4-conference_cvpr2019/</guid>
-      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;CVPR 2019&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&lt;font size=4 color=#FF4500&gt;Best Paper Finalist&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;CVPR 2019&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;&lt;font size=4 color=#FF4500&gt;Oral &amp;amp; Best Paper Finalist&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
     </item>
     
     <item>
