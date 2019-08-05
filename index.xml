@@ -5,7 +5,7 @@
     <description>Recent content in Yongcheng Liu&#39;s Homepage on Yongcheng Liu&#39;s Homepage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2019 13:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2019 13:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -16,6 +16,33 @@
       <guid>https://yochengliu.github.io/friends/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://stephenjia.github.io/&#34; target=&#34;_blank&#34;&gt;&lt;font size=5&gt;Xu Jia&lt;/font&gt;&lt;/a&gt;, &lt;a href=&#34;http://www.nlpr.ia.ac.cn/mmc/homepage/jygao/index.html&#34; target=&#34;_blank&#34;&gt;&lt;font size=5&gt;Junyu Gao&lt;/font&gt;&lt;/a&gt;, &lt;a href=&#34;http://www.cbsr.ia.ac.cn/users/sfzhang/&#34; target=&#34;_blank&#34;&gt;&lt;font size=5&gt;Shifeng Zhang&lt;/font&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Exploration of Deep Learning in 3D Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/talk/7-jiangmen/</link>
+      <pubDate>Thu, 01 Aug 2019 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/7-jiangmen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/publication/5-conference_iccv2019/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/5-conference_iccv2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
+      <link>https://yochengliu.github.io/publication/4-conference_cvpr2019/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/4-conference_cvpr2019/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -42,24 +69,6 @@
       <pubDate>Sun, 21 Apr 2019 13:00:00 +0800</pubDate>
       
       <guid>https://yochengliu.github.io/talk/4-sffai25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
-      <link>https://yochengliu.github.io/publication/5-conference_iccv2019/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/publication/5-conference_iccv2019/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Relation-Shape Convolutional Neural Network for Point Cloud Analysis</title>
-      <link>https://yochengliu.github.io/publication/4-conference_cvpr2019/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/publication/4-conference_cvpr2019/</guid>
       <description></description>
     </item>
     
@@ -197,15 +206,6 @@ rm Untitled.md
       <pubDate>Sun, 17 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>https://yochengliu.github.io/publication/1-conference_icip2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>https://yochengliu.github.io/project/external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/project/external-project/</guid>
       <description></description>
     </item>
     
