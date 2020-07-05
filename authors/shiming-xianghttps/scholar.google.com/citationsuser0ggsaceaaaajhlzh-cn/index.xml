@@ -6,10 +6,19 @@
     <description>Recent content in [Shiming Xiang](https://scholar.google.com/citations?user=0ggsACEAAAAJ&amp;hl=zh-CN) on Yongcheng Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://yochengliu.github.io/authors/shiming-xianghttps/scholar.google.com/citationsuser0ggsaceaaaajhlzh-cn/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Decoupled Representation Learning for Skeleton-Based Gesture Recognition</title>
+      <link>https://yochengliu.github.io/publication/6-conference_cvpr2020/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/6-conference_cvpr2020/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;CVPR 2020&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt; &lt;strong&gt;&lt;em&gt;(&lt;font size=4 color=#FF4500&gt;CCF A&lt;/font&gt;)&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
     
     <item>
       <title>DensePoint: Learning Densely Contextual Representation for Efficient Point Cloud Processing</title>
