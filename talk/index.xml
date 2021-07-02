@@ -6,10 +6,19 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Yongcheng Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Aug 2019 13:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 17 Jun 2021 13:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://yochengliu.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Research Advances on Deep Learning for 3D Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/talk/8-huaweiml/</link>
+      <pubDate>Thu, 17 Jun 2021 13:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/talk/8-huaweiml/</guid>
+      <description>Invited live talk at HUAWEI</description>
+    </item>
     
     <item>
       <title>Exploration of Deep Learning in 3D Point Cloud Processing</title>
