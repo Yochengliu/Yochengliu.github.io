@@ -6,10 +6,19 @@
     <description>Recent content in Publications on Yongcheng Liu&#39;s Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="https://yochengliu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Differentiable Convolution Search for Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/publication/7-conference_iccv2021/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/7-conference_iccv2021/</guid>
+      <description>&lt;strong&gt;&lt;em&gt;&lt;font size=4&gt;ICCV 2021&lt;/font&gt;&lt;/em&gt;&lt;/strong&gt;</description>
+    </item>
     
     <item>
       <title>Decoupled Representation Learning for Skeleton-Based Gesture Recognition</title>

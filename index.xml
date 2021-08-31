@@ -28,6 +28,15 @@
     </item>
     
     <item>
+      <title>Differentiable Convolution Search for Point Cloud Processing</title>
+      <link>https://yochengliu.github.io/publication/7-conference_iccv2021/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0800</pubDate>
+      
+      <guid>https://yochengliu.github.io/publication/7-conference_iccv2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Decoupled Representation Learning for Skeleton-Based Gesture Recognition</title>
       <link>https://yochengliu.github.io/publication/6-conference_cvpr2020/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0800</pubDate>
@@ -198,15 +207,6 @@ rm Untitled.md
 
 &lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Semantic Labeling in Very High Resolution Images via A Self-Cascaded Convolutional Neural Network</title>
-      <link>https://yochengliu.github.io/publication/2-journal_jprs2018/</link>
-      <pubDate>Fri, 15 Dec 2017 00:00:00 +0800</pubDate>
-      
-      <guid>https://yochengliu.github.io/publication/2-journal_jprs2018/</guid>
-      <description></description>
     </item>
     
   </channel>
